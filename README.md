@@ -1,9 +1,10 @@
-# Portfólio Responsivo
+# Portfólio Responsivo 👤
 
-Olá 👋
+Projeto realizado de forma de por em prática as habilidades desenvolvidas com Javscript, HTML e CSS.
 
-Trago aqui um projeto idealizado no modelo de apresentação de portifólio, qual foi desenvolvi em base de desenvolver meus conhecimentos, colocando um pouco em prática de HTML, CSS e Javascript, seguindo um modelo responsivo e adicionando um pacote de efeito no "scroll" da tela.
+Utilizado também um pacote de rolagem (scroll), com forma de efeito nas transições de setores.
 
 Enjoy! 🚀
 
-![portfolio](https://user-images.githubusercontent.com/89155684/133144184-0a383528-631c-4055-b7ac-073007deaba7.png)
+![port](https://user-images.githubusercontent.com/89155684/136719449-3d04ab12-20ad-4478-9d3c-f2584ad8fafe.png)
+
