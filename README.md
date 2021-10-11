@@ -2,7 +2,7 @@
 
 Projeto realizado de forma de por em prática as habilidades desenvolvidas com Javscript, HTML e CSS.
 
-Utilizado também um pacote de rolagem (scroll), com forma de efeito nas transições de setores.
+Utilizado também um pacote de rolagem (scroll), com forma de efeito nas transições de setores, e a possibilidade de efetuar o download do CV em pdf.
 
 Enjoy! 🚀
 
